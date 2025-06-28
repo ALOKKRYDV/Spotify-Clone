@@ -2,4 +2,4 @@
 simple clone made using html and css
 
 # Made by
-Alok Kumar
+Alok Kumar yadav
